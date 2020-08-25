@@ -1,3 +1,5 @@
+//AIzaSyDSI15c8iFLX3tz26GadekfQf5dtS0lMyU GOOGLE MAPS API
+
 export const mapServices = [
   {
     name: 'OpenStreetMap',
